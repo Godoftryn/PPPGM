@@ -1,0 +1,6 @@
+{
+  "name": "PGM Ops-Assistant",
+  "description": "한화에어로스페이스 PGM 사업부 신입사원을 위한 추진기관 개발 업무 지원 및 자동화 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
